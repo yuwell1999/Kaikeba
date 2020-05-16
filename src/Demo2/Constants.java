@@ -10,7 +10,7 @@ public class Constants {
 
     public static String APP_KEY = "5701500bf5e5e1df";
     public static String QUESTION = "天气";
-    public static String MOBILE = "18890099828";
+    public static String MOBILE = "18000000000";
     public static String CONTENT1 = "恭喜你，作业已完成！验证码是：";
     public static String CONTENT2 = "。如非本人操作，请忽略本短信！【开课吧新职课】";
     public static String CONTENT = "恭喜你，作业已完成！验证码是：003168。如非本人操作，请忽略本短信！【开课吧新职课】";
